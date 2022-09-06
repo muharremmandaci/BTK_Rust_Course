@@ -1,1 +1,0 @@
-C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\Rust_BTK\6\ -\ stack_heap\target\debug\stack_heap.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\Rust_BTK\6\ -\ stack_heap\src\main.rs C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\Rust_BTK\6\ -\ stack_heap\src\sh.rs

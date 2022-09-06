@@ -1,1 +1,0 @@
-C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\4\ -\ Data\ Structs\4.5\ -\ generics\target\debug\generics.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\4\ -\ Data\ Structs\4.5\ -\ generics\src\main.rs
