@@ -1,0 +1,1 @@
+C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\5\ -\ Collections\5.1\ -\ vectors\target\debug\vectors.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\5\ -\ Collections\5.1\ -\ vectors\src\main.rs
