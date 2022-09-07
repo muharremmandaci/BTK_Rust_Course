@@ -1,1 +1,0 @@
-C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\5\ -\ Collections\5.4\ -\ iterators\target\debug\iterators.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\5\ -\ Collections\5.4\ -\ iterators\src\main.rs

@@ -1,1 +1,0 @@
-C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\6\ -\ Strings\6.2\ -\ string_format\target\debug\string_format.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\6\ -\ Strings\6.2\ -\ string_format\src\main.rs

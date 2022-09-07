@@ -1,1 +1,0 @@
-C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\6\ -\ Strings\6.1\ -\ string_str\target\debug\string_str.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\6\ -\ Strings\6.1\ -\ string_str\src\main.rs
