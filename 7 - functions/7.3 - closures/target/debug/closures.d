@@ -1,0 +1,1 @@
+C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\7\ -\ functions\7.3\ -\ closures\target\debug\closures.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\7\ -\ functions\7.3\ -\ closures\src\main.rs

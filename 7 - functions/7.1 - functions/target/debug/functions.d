@@ -1,0 +1,1 @@
+C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\7\ -\ functions\7.1\ -\ functions\target\debug\functions.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\7\ -\ functions\7.1\ -\ functions\src\main.rs

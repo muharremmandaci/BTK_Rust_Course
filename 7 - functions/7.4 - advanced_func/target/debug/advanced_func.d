@@ -1,0 +1,1 @@
+C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\7\ -\ functions\7.4\ -\ advanced_func\target\debug\advanced_func.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\7\ -\ functions\7.4\ -\ advanced_func\src\main.rs
