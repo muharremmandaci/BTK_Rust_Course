@@ -1,0 +1,1 @@
+C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\8\ -\ Traits\8.1\ -\ traits_1\target\debug\traits_1.exe: C:\Users\muhar\OneDrive\Belgeler\Programlama\Rust\BTK_Rust_Course\8\ -\ Traits\8.1\ -\ traits_1\src\main.rs
